@@ -3,7 +3,7 @@
 - **Mã đề:** 09
 - **Họ tên:** Nguyễn Vũ Quốc Anh
 - **Lớp:** HCM_KS26_CNTT2
-- **Link repository:**
+- **Link repository:**https://github.com/vuquocanhnguyen008-star/HCM_KS26_CNTT2_Nhap-mon-CNTT_Hackathon02.git
 - **Hệ điều hành (Windows/macOS):** Windows
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
